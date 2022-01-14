@@ -21,7 +21,7 @@ const Quote = ({ currQuote, change, open }) => {
           onClick={open}
         >
           <i className="fab fa-twitter"></i>
-          Tweet
+          TweetSSS
         </button>
         <button id="new-quote" onClick={change}>
           New Quote
